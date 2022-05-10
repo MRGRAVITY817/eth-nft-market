@@ -1,5 +1,5 @@
+import Navbar from "@ui/navbar";
 import { FC, ReactNode } from "react";
-import Navbar from "../navbar";
 
 interface BaseLayoutProps {
   children?: ReactNode;

@@ -1,5 +1,5 @@
+import { NftMeta } from "@_types/nft";
 import { FC } from "react";
-import { NftMeta } from "../../../types/nft";
 
 interface NftItemProps {
   item: NftMeta;
